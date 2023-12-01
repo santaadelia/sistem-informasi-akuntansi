@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## Tampilan Awal
-![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/14368aea-0133-4d3c-9121-11f02b53a22b)
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/809ac123-7a67-458e-8b20-ad1a0d6bce90)
+
 
 ## Cara Install Project DENGAN github desktop
 Untuk menginstal project ini anda harus memiliki Composer
