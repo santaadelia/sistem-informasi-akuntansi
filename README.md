@@ -5,8 +5,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## Tampilan Awal
-![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/809ac123-7a67-458e-8b20-ad1a0d6bce90)
+## Tampilan Awal ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/297c11e6-f0a8-45b8-a125-c12ab04251f2)
+
 
 
 ## Cara Install Project DENGAN github desktop
