@@ -5,9 +5,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## Tampilan Awal ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/297c11e6-f0a8-45b8-a125-c12ab04251f2)
-
-
 
 ## Cara Install Project DENGAN github desktop
 Untuk menginstal project ini anda harus memiliki Composer
@@ -172,3 +169,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## credit to https://github.com/maulanakevinp/akuntansi
+## Tampilan Awal 
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/4908b2db-896d-4e9a-8740-ef6e6628adab)
+
