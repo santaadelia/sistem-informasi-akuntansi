@@ -185,6 +185,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/77a8d375-d724-42c9-8501-ac4b5a2e9d6e)
 ## 3. Dashboard
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/9a8c2418-f952-4bf8-b411-ce6f4904d284)
+## Akun 
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/62538dd2-4c66-4213-9aca-4d705b5e77a4)
 
 ## Jurnal Umum
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/4b6d7b0a-3212-40d2-9f41-ae983b613d53)
