@@ -171,7 +171,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## credit to https://github.com/maulanakevinp/akuntansi
 
 ## Flowchart
-![flowchart sia drawio](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/1fc3df48-3ba3-4ef0-8d02-46dff38e45c2)
+![flowchart drawio](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/f665f62b-e293-4b6b-b1a5-f3f61188c63a)
+
 ## Desaigner (Database)
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/d443cb6e-d991-4d12-bdd5-9fb4d7e10348)
 ## Structure 
