@@ -186,12 +186,23 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## 3. Dashboard
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/9a8c2418-f952-4bf8-b411-ce6f4904d284)
 
-## 3.1 Jurnal Umum
+## Jurnal Umum
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/4b6d7b0a-3212-40d2-9f41-ae983b613d53)
-## 3.2 Jurnal Penyesuaian
+## Jurnal Penyesuaian
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/90f04689-4644-4062-9628-48841737f143)
-## 3.3 Buku Besar
+## Buku Besar
 ![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/b2c8ee24-f673-4608-8758-0f61933f6dbe)
+## Neraca Lajur
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/62942cbd-aa9c-4466-ab76-d31ec179ff41)
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/07675320-fcd4-43b3-a009-23a557439b7b)
 
+## Laporan Perubahan Ekuitas
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/4578dbc0-bd0b-4845-8e6a-c89e6fab244f)
 
+## Laporan Laba Rugi
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/78d93845-bdaa-4b79-848f-35a7907cfdf2)
+## Laporan Posisi Keuangan
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/646e908d-ce3b-4d97-9b19-f23ba37e810b)
+## Jurnal Penutup
+![image](https://github.com/santaadelia/sistem-informasi-akuntansi/assets/152131711/adcadbef-bdca-4f68-9950-2419b3b18ab6)
 
